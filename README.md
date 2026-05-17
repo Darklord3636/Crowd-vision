@@ -1,4 +1,5 @@
-# 🧠 Crowd Vision — Real-Time Crowd Detection & Risk Prediction
+# 🧠 Crowd Vision 
+Real-Time Crowd Detection & Risk Prediction
 
 A real-time crowd monitoring system built on **YOLOv8m** that detects people in images, video files, and live webcam feeds — and automatically predicts crowd risk levels (LOW / MEDIUM / HIGH / CRITICAL) based on people count and frame density.
 
